@@ -1,6 +1,6 @@
 # Phaser 3 Arcade games with Arcade and Matter Physics
 
-All the games listed below are mobile compatible as well with Joysticks implemented whereever required.
+All the games listed below are mobile compatible as well with Joysticks implemented wherever required.
 > NOTE - These are just for demo purpose to showcase the understandong of Phaser 3 framework
 
 .

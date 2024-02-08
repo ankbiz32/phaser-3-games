@@ -17,14 +17,5 @@ All the games listed below are mobile compatible as well with Joysticks implemen
 
 
 ## Installation
-Open any of the game folder & Install the dependencies
-
-```sh
-cd <game folder>
-npm i
-```
-
-Now run the vite server to start server and play the game
-```sh
-npm run dev
-```
+Install live server extension in VS code.
+Open any of the game folder & click go live to start the live server.

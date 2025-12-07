@@ -1,11 +1,11 @@
 const assets_list = {
-  "background": "assets/bg.png",
-  "platform": "assets/brick.png",
-  "player": "assets/mario.png",
-  "enemy": "assets/enemy.png",
-  "projectile": "assets/bullet.png",
-  "collectible": "assets/coin.png",
-  "mushroom": "assets/pwerup.png",
+  "background": "mario-lite/assets/bg.png",
+  "platform": "mario-lite/assets/brick.png",
+  "player": "mario-lite/assets/mario.png",
+  "enemy": "mario-lite/assets/enemy.png",
+  "projectile": "mario-lite/assets/bullet.png",
+  "collectible": "mario-lite/assets/coin.png",
+  "mushroom": "mario-lite/assets/pwerup.png",
 };
 
 const assetsLoader = {

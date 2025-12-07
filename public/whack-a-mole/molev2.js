@@ -1,11 +1,11 @@
 const assets_list = {
-    "background": "assets/bg.png",
-    "platform": "assets/bg2.png",
-    "player": "assets/bg.png",
-    "enemy": "assets/mole.png",
-    "projectile": "assets/bg2.png",
-    "collectible": "assets/powerup.png",
-    "avoidable": "assets/bg2.png",
+    "background": "whack-a-mole/assets/bg.png",
+    "platform": "whack-a-mole/assets/bg2.png",
+    "player": "whack-a-mole/assets/bg.png",
+    "enemy": "whack-a-mole/assets/mole.png",
+    "projectile": "whack-a-mole/assets/bg2.png",
+    "collectible": "whack-a-mole/assets/powerup.png",
+    "avoidable": "whack-a-mole/assets/bg2.png",
 };
 
 const assetsLoader = {

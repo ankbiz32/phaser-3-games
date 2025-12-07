@@ -1,11 +1,11 @@
 const assets_list = {
-    "background": "assets/park.png",
-    "platform": "assets/bin.png",
-    "player": "assets/runner.png",
-    "enemy": "assets/virus.png",
-    "projectile": "assets/redcan.png",
-    "collectible": "assets/abstract.png",
-    "avoidable": "assets/bullet2.png",
+    "background": "toss-the-can/assets/park.png",
+    "platform": "toss-the-can/assets/bin.png",
+    "player": "toss-the-can/assets/runner.png",
+    "enemy": "toss-the-can/assets/virus.png",
+    "projectile": "toss-the-can/assets/redcan.png",
+    "collectible": "toss-the-can/assets/abstract.png",
+    "avoidable": "toss-the-can/assets/bullet2.png",
 };
 
 const assetsLoader = {

@@ -1,8 +1,8 @@
 const assets_list = {
-  "background": "assets/starry.jpg",
-  "player": "assets/silver.png",
-  "enemy": "assets/enemy.png",
-  "collectible": "assets/collectible.png",
+  "background": "silver-surfer/assets/starry.jpg",
+  "player": "silver-surfer/assets/silver.png",
+  "enemy": "silver-surfer/assets/enemy.png",
+  "collectible": "silver-surfer/assets/collectible.png",
 };
 
 const assetsLoader = {

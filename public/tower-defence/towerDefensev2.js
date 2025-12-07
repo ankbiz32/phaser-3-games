@@ -1,9 +1,9 @@
 const assets_list = {
-    "background": "assets/bg.png",
-    "player": "assets/smg.png",
-    "enemy": "assets/enemy.png",
-    "projectile": "assets/bullet.png",
-    "collectible": "assets/tower.png",
+    "background": "tower-defence/assets/bg.png",
+    "player": "tower-defence/assets/smg.png",
+    "enemy": "tower-defence/assets/enemy.png",
+    "projectile": "tower-defence/assets/bullet.png",
+    "collectible": "tower-defence/assets/tower.png",
   };
   
   const assetsLoader = {

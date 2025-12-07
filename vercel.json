@@ -1,10 +1,10 @@
 {
     "rewrites": [
-      { "source": "/mario-lite", "destination": "/Mario Lite/index.html" },
-      { "source": "/silver-surfer", "destination": "/Silver surfer/index.html" },
-      { "source": "/toss-the-can", "destination": "/Toss the can/index.html" },
-      { "source": "/tower-defence", "destination": "/Tower Defence/index.html" },
-      { "source": "/whack-a-mole", "destination": "/whack a mole/index.html" }
+      { "source": "/mario-lite", "destination": "/mario-lite/index.html" },
+      { "source": "/silver-surfer", "destination": "/silver-surfer/index.html" },
+      { "source": "/toss-the-can", "destination": "/toss-the-can/index.html" },
+      { "source": "/tower-defence", "destination": "/tower-defence/index.html" },
+      { "source": "/whack-a-mole", "destination": "/whack-a-mole/index.html" }
     ]
   }
   
